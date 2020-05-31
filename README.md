@@ -1,2 +1,1 @@
-# docker-emscripten
-A Docker configuration used to build C++ projects with Emscripten
+A [Docker configuration](https://hub.docker.com/repository/docker/petersonjm1/emscripten) used to build C++ projects with Emscripten
